@@ -1,8 +1,7 @@
 # 📊 Global Superstore Data Analysis & Preprocessing
 
-**Student Project: Artificial Intelligence Foundations**  
+**Project: Artificial Intelligence Foundations**  
 **Author:** Rawad Zaidan  
-**Student ID:** 202532489  
 **Institution:** University of Hull  
 
 ## 📝 Project Overview
@@ -142,4 +141,5 @@ The project includes comprehensive visualization dashboards featuring:
 ## 🏷️ Tags
 
 `#DataScience` `#Python` `#EDA` `#DataPreprocessing` `#StatisticalAnalysis` `#MachineLearning` `#BusinessIntelligence` `#DataVisualization` `#UniversityOfHull` `#AcademicProject`
+
 
