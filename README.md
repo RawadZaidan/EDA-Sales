@@ -76,7 +76,7 @@ This project presents a comprehensive data preprocessing and exploratory data an
 ## 📁 Project Structure
 
 ```
-Hull-Semester1/Submission/
+EDA-Sales/
 ├── README.md                           # Project documentation
 ├── 202532489.ipynb                     # Main Jupyter notebook with analysis
 ├── 202532489.html                      # HTML export of the notebook
@@ -135,13 +135,6 @@ The project includes comprehensive visualization dashboards featuring:
 - VanderPlas, J. (2023). *Python Data Science Handbook: Essential Tools for Working with Data*. 2nd Edition. O'Reilly Media.
 - Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research*, 12, pp. 2825-2830.
 
-## 📞 Contact
-
-**Rawad Zaidan**  
-Student ID: 202532489  
-University of Hull  
-Artificial Intelligence Foundations Module  
-
 ---
 
 *This project demonstrates advanced data science techniques for academic assessment in the AI Foundations module at the University of Hull, showcasing professional-grade data analysis and statistical methodology.*
@@ -149,3 +142,4 @@ Artificial Intelligence Foundations Module
 ## 🏷️ Tags
 
 `#DataScience` `#Python` `#EDA` `#DataPreprocessing` `#StatisticalAnalysis` `#MachineLearning` `#BusinessIntelligence` `#DataVisualization` `#UniversityOfHull` `#AcademicProject`
+
